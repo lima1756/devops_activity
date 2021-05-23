@@ -1,0 +1,1 @@
+![Test status](https://github.com/lima1756/semstrei-cloe/blob/master/badges/status.svg)
