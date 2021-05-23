@@ -1,1 +1,1 @@
-![Test status](https://github.com/lima1756/semstrei-cloe/blob/master/badges/status.svg)
+![Test status](https://raw.githubusercontent.com/lima1756/devops_activity/main/badges/status.svg)
